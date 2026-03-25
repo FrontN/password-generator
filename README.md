@@ -32,11 +32,10 @@ Formatting: Joins the list into a final string and displays it centered within a
 Project Structure 📁
 Plaintext
 password-generator/
-├── Password_generator_image.png
-├── main.py                    # Main logic and entry point
-├── password_art.py            # Optional ASCII art assets
-├── algoritmo_password.txt     # Technical logic documentation
-└── README.md                  # This file
+├── main.py                                # Main logic and entry point
+├── Password_generator_image.png           # Optional ASCII art assets
+├── algoritmo_password.txt                 # Technical logic documentation
+└── README.md                              # This file
 Main Functions Overview:
 clear_screen() - Clears the console based on the Operating System (Windows/Unix).
 
